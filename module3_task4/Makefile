@@ -24,4 +24,5 @@ validate:	## validate
 		ls
 
 package:	## package
+		zip awesome-website.zip DEPLOY.md
 		zip awesome-website.zip dist/
