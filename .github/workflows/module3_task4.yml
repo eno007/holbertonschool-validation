@@ -1,7 +1,7 @@
 ---
 name: module3_task4
 
-on:
+on:  # yamllint disable-line rule:truthy
   schedule:
     - cron: "0 0 * * *"
   push:
