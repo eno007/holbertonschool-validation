@@ -10,3 +10,12 @@ post: ## creates new post
 
 help: ## help
 	@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
+
+lint: ## lint
+	shellcheck setup.sh
+
+unittest: ## testing
+	pwd
+
+integration-test: ## tests
+	ls
