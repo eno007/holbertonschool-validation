@@ -11,4 +11,4 @@
 - clean
 - build
 - post 
-- help
+- helpgit
