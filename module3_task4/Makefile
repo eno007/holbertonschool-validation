@@ -18,7 +18,7 @@ unit-tests:	## test
 		ls
 
 integration-tests:	## test
-			ls
+			pwd
 
 validate:	## validate
 		ls
