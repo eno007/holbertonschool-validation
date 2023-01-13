@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Jan 2023 11:57:44 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Awesome Inc.</title>
+      <link>/posts/welcome/</link>
+      <pubDate>Fri, 13 Jan 2023 11:57:44 +0100</pubDate>
+      
+      <guid>/posts/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
